@@ -1,0 +1,11 @@
+
+$primary : #0a3756;
+$table-head-cell-color: #90ad3d;
+
+@import "~bulma/bulma.sass";
+
+.__app_body_wrapper {
+    padding: 1em;
+    margin: auto;
+    max-width: 1000px;
+}
